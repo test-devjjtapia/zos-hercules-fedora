@@ -259,4 +259,3 @@ openssl s_client -connect 127.0.0.1:992
 ---
 
 **Creado**: 2026-02-12  
-**Sistema**: Dell Latitude 5410 - Fedora 43 WS
