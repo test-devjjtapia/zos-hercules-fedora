@@ -325,6 +325,5 @@ Cuando hagas cambios, actualiza:
 
 **Creado**: 2026-02-12  
 **Sistema**: Dell Latitude 5410 - Fedora 43 Workstation  
-**Ubicación**: `/home/d5410/IBM_HOST/IBM-ZOS_V3R1/`  
 **Mantenedor**: Sistema automatizado  
 **Última actualización**: 2026-02-12 14:35 ART
