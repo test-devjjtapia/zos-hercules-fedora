@@ -14,7 +14,6 @@
 - **Distribución**: Fedora Linux 43 (Workstation Edition)
 - **Kernel**: Linux 6.18.9-200.fc43.x86_64
 - **Arquitectura**: x86-64
-- **Hostname**: Noa5410
 
 ### **Software de Emulación**
 - **Emulador**: Hercules SDL 4.x Hyperion
